@@ -1,7 +1,7 @@
 hello Git! test ins
 hello Git! test ins3
 hello Git! branch develop upd
-hello Git!
+hello Git! branch main ins
 hello Git!
 hello Git!
 hello Git!
